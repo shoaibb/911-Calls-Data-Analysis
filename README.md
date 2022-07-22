@@ -1,7 +1,6 @@
-# 911-Calls-Data-Analysis
-Data Analysis of 911 Calls using Python
+# Data Analysis of 911 Calls using Python
 -----------
-In this project we will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The data contains the following fields:
+In this project I will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The data contains the following fields:
 
 * lat : String variable, Latitude
 * lng: String variable, Longitude
